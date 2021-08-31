@@ -30,7 +30,7 @@ You can find a pdf version of my CV [here][1].
 ### Deloitte
 
 * *Title:* **Data Scientist** <br/>
-* *Dates:* Jun 2020---Present
+* *Dates:* Jun 2021---Present
 
 ### Carlac Capital
 
