@@ -15,4 +15,6 @@ tags:
 ---
 
 
+See the linked Jupyter Notebook for the code I implemented to analyse IMDBb's movie ratings dataset in Apache Spark.
+
 [Spark IMDb Analysis](https://github.com/inigohidalgo/data-science-projects/blob/main/big-data/Spark_IMDb_Analysis.ipynb)
