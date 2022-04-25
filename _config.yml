@@ -68,7 +68,7 @@ teaser: "/assets/images/code_splash.jpeg"
 author:
   name   : "Iñigo Hidalgo Rey"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Junior Data Scientist."
+  bio    : "Data Scientist."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
