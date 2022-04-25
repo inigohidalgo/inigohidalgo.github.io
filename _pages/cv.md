@@ -6,31 +6,23 @@ toc_sticky: true
 ---
 You can find a pdf version of my CV [here][1].
 
-
-## Education
-
-### IE University
-
-* *Degree:* **Master's in Business Analytics and Big Data** <br/>
-* *Dates:* 2020---2021
-
-### EDHEC Business School
-
-* *Degree:* **MSc Financial Markets** <br/>
-* *Dates:* 2018---2019
-
-
-### University of Bristol
-
-* *Degree:* **BSc Economics** <br/>
-* *Dates:* 2014---2017
-
 ## Professional Experience
+
+### Axpo
+
+* *Title:* **Data Scientist** <br/>
+* *Dates:* Nov 2021---Present
+</br>
+* Building end-to-end models used to trade on various energy markets (Day-Ahead and realtime)
+* Data ingestion from various sources including APIs, internal databases and unstructured data
+* Initial EDA and model prototyping using advanced hyperparameter optimization libraries (Optuna, Raytune)
+* Implementing production pipelines using Kedro and deploying to Kubernetes
+* Model serving on PowerBI
 
 ### Deloitte
 
-* *Title:* **Data Scientist** <br/>
-* *Dates:* Jun 2021---Present
+* *Title:* **Data Analyst** <br/>
+* *Dates:* Jun 2021---Oct 2021
 
 ### Carlac Capital
 
@@ -52,5 +44,25 @@ You can find a pdf version of my CV [here][1].
 
 * *Title:* **Global Transaction Banking Summer Intern** <br/>
 * *Dates:* Jun 2015---Aug 2015
+
+## Education
+
+### IE University
+
+* *Degree:* **Master's in Business Analytics and Big Data** <br/>
+* *Dates:* 2020---2021
+
+### EDHEC Business School
+
+* *Degree:* **MSc Financial Markets** <br/>
+* *Dates:* 2018---2019
+
+
+### University of Bristol
+
+* *Degree:* **BSc Economics** <br/>
+* *Dates:* 2014---2017
+
+
 
 [1]:{{ site.url }}/downloads/Inigo_Hidalgo_CV_Online.pdf
