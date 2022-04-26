@@ -10,9 +10,9 @@ You can find a pdf version of my CV [here][1].
 
 ### Axpo
 
-* *Title:* **Data Scientist** <br/>
-* *Dates:* Nov 2021---Present
-</br>
+**Data Scientist** 
+*Nov 2021---Present*
+<br/>
 * Building end-to-end models used to trade on various energy markets (Day-Ahead and realtime)
 * Data ingestion from various sources including APIs, internal databases and unstructured data
 * Initial EDA and model prototyping using advanced hyperparameter optimization libraries (Optuna, Raytune)
@@ -21,47 +21,47 @@ You can find a pdf version of my CV [here][1].
 
 ### Deloitte
 
-* *Title:* **Data Analyst** <br/>
-* *Dates:* Jun 2021---Oct 2021
+**Data Analyst** <br/>
+*Jun 2021---Oct 2021*
 
 ### Carlac Capital
 
-* *Title:* **Investment Banking Analyst** <br/>
-* *Dates:* Jan 2020---Apr 2020
+**Investment Banking Analyst** <br/>
+Jan 2020---Apr 2020
 
 ### BBVA Asset Management
 
-* *Title:* **Global Investment Process Analyst** <br/>
-* *Dates:* Aug 2017---Jul 2018
+**Global Investment Process Analyst** <br/>
+Aug 2017---Jul 2018
 
 ### Russula
 
-* *Title:* **Finance Summer Intern**    <br/>
-* *Dates:* Jun 2016---Aug 2016
+**Finance Summer Intern**    <br/>
+Jun 2016---Aug 2016
 
 
 ### BBVA Corporate & Investment Banking
 
-* *Title:* **Global Transaction Banking Summer Intern** <br/>
-* *Dates:* Jun 2015---Aug 2015
+**Global Transaction Banking Summer Intern** <br/>
+Jun 2015---Aug 2015
 
 ## Education
 
 ### IE University
 
-* *Degree:* **Master's in Business Analytics and Big Data** <br/>
-* *Dates:* 2020---2021
+**Master's in Business Analytics and Big Data** <br/>
+2020---2021
 
 ### EDHEC Business School
 
-* *Degree:* **MSc Financial Markets** <br/>
-* *Dates:* 2018---2019
+**MSc Financial Markets** <br/>
+2018---2019
 
 
 ### University of Bristol
 
-* *Degree:* **BSc Economics** <br/>
-* *Dates:* 2014---2017
+**BSc Economics** <br/>
+2014---2017
 
 
 
