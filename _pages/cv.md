@@ -10,9 +10,8 @@ You can find a pdf version of my CV [here][1].
 
 ### Axpo
 
-**Data Scientist** 
+**Data Scientist** <br/>
 *Nov 2021---Present*
-<br/>
 * Building end-to-end models used to trade on various energy markets (Day-Ahead and realtime)
 * Data ingestion from various sources including APIs, internal databases and unstructured data
 * Initial EDA and model prototyping using advanced hyperparameter optimization libraries (Optuna, Raytune)
@@ -27,41 +26,41 @@ You can find a pdf version of my CV [here][1].
 ### Carlac Capital
 
 **Investment Banking Analyst** <br/>
-Jan 2020---Apr 2020
+*Jan 2020---Apr 2020*
 
 ### BBVA Asset Management
 
 **Global Investment Process Analyst** <br/>
-Aug 2017---Jul 2018
+*Aug 2017---Jul 2018*
 
 ### Russula
 
 **Finance Summer Intern**    <br/>
-Jun 2016---Aug 2016
+*Jun 2016---Aug 2016*
 
 
 ### BBVA Corporate & Investment Banking
 
 **Global Transaction Banking Summer Intern** <br/>
-Jun 2015---Aug 2015
+*Jun 2015---Aug 2015*
 
 ## Education
 
 ### IE University
 
 **Master's in Business Analytics and Big Data** <br/>
-2020---2021
+*2020---2021*
 
 ### EDHEC Business School
 
 **MSc Financial Markets** <br/>
-2018---2019
+*2018---2019*
 
 
 ### University of Bristol
 
 **BSc Economics** <br/>
-2014---2017
+*2014---2017*
 
 
 
